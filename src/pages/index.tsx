@@ -11,9 +11,8 @@ const Root = () => {
       <Page title={pageTitle}>
         <div className={styles.rootPage}>
           <img src={NetspaceImg} alt="Netspace Albania" />
-          <h1>HISTORY</h1>
           <h3>NetSpace Albania is a community of people just like YOU!</h3>
-          <h4>Aiming to learn, share, and help each-other experience building things.</h4>
+          <h4>Aiming to learn, share, and help each other experience building things.</h4>
 
           {/* Collapsible History Section */}
           <details>
@@ -21,19 +20,19 @@ const Root = () => {
 
             <h2>April 2019: Tirana Cyber Zone</h2>
             <p>
-              <a href="https://www.linkedin.com/in/klesti">Klesti</a> launched <strong>Tirana Cyber Zone (TCZ)</strong>, 
+              <a href="https://www.linkedin.com/in/klesti-fetiu">Klesti</a> launched <strong>Tirana Cyber Zone (TCZ)</strong>, 
               soon joined by other members like 
-              <a href="https://www.linkedin.com/in/ferdinand"> Ferdinand</a>, 
-              <a href="https://www.linkedin.com/in/indrit"> Indrit</a>, and 
-              <a href="https://www.linkedin.com/in/elvis"> Elvis</a>.
+              <a href="https://www.linkedin.com/in/fredi16/"> Ferdinand</a>, 
+              <a href="https://www.linkedin.com/in/indrit-breti-35333b151/"> Indrit</a>, and 
+              <a href="https://www.linkedin.com/in/elvis-lleshi-62882a218/"> Elvis</a>.
               By September, the community was active in Open Labs events, and the idea of creating a hackerspace was born.
             </p>
 
             <h2>From TCZ to Hackerspace Albania (2020)</h2>
             <p>
               <strong>January 2020:</strong> 
-              <a href="https://www.linkedin.com/in/klesti"> Klesti</a> connected with 
-              <a href="https://www.linkedin.com/in/uljan"> Uljan</a>, leading to a rebrand as 
+              <a href="https://www.linkedin.com/in/klesti-fetiu"> Klesti</a> connected with 
+              <a href="https://www.linkedin.com/in/uljansinani/"> Uljan</a>, leading to a rebrand as 
               <strong> Hackerspace Albania (HSA)</strong>.  
               The community grew rapidly online (Discord and other social media), attracting new members and experimenting with tech projects, including IoT and LoRa systems.
             </p>
@@ -54,12 +53,12 @@ const Root = () => {
             <h2>HSA → NSA (2022)</h2>
             <p>
               During <strong>OSCAL 2022</strong>, 
-              <a href="https://www.linkedin.com/in/rei"> Rei</a> joined the leadership team alongside 
-              <a href="https://www.linkedin.com/in/klesti"> Klesti</a>, 
-              <a href="https://www.linkedin.com/in/meco"> Meco</a>, 
-              <a href="https://www.linkedin.com/in/klaidi"> Klaidi</a>, 
-              <a href="https://www.linkedin.com/in/kilton"> Kilton</a>, and 
-              <a href="https://www.linkedin.com/in/rubin"> Rubin</a>.  
+              <a href="https://www.linkedin.com/in/rei-arifi/"> Rei</a> joined the leadership team alongside 
+              <a href="https://www.linkedin.com/in/klesti-fetiu"> Klesti</a>, 
+              <a href="https://www.linkedin.com/in/me%C3%A7o-dine-2bbbb1188/"> Meco</a>, 
+              <a href="https://www.linkedin.com/in/klaidizerellari/"> Klaidi</a>, 
+              <a href="https://www.linkedin.com/in/kiltonpisli/"> Kilton</a>, and 
+              <a href="https://www.linkedin.com/in/rubin-lemeti-2855521b5/"> Rubin</a>.  
               A new board restructured the group, and the community began formalizing as a non-profit under the name 
               <strong> NSA – Netspace Albania</strong>.
             </p>
